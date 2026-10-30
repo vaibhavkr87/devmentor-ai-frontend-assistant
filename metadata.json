@@ -1,0 +1,6 @@
+{
+  "name": "DevMentor AI – Frontend Development Assistant",
+  "description": "An interactive, pedagogical frontend development mentor helping junior developers and learners diagnose bugs, master CSS and React, and generate progressive project roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
